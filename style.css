@@ -4,7 +4,7 @@ overflow-x: hidden;
 }
 @font-face {
 	font-family: 'antimatrix';
-	src: url(Font/Antimatrix.ttf)
+	src: url(font/antimatrix.ttf)
 }
 .BC0{
 position: absolute;
