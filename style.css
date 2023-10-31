@@ -3,7 +3,7 @@ margin: 0;
 overflow-x: hidden;
 }
 @font-face {
-	font-family: 'Antimatrix';
+	font-family: 'antimatrix';
 	src: url(Font/Antimatrix.ttf)
 }
 .BC0{
@@ -12,7 +12,7 @@ z-index: 0;
 }
 h1{
 font-size: 32;
-font-family: 'Antimatrix';
+font-family: 'antimatrix';
 color: #00FF41;
 padding-bottom: 5;
 }
@@ -20,7 +20,7 @@ h2{
 font-size: 25;
 padding-bottom: 5;
 color: #00FF41;
-font-family: 'Antimatrix';	
+font-family: 'antimatrix';	
 text-shadow: 1px 1px 2px #0D0208;
 }
 p{
